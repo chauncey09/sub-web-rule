@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 
+# M-team
+DOMAIN-SUFFIX,m-team.cc
 
 DOMAIN-SUFFIX,home-intl.console.aliyun.com
 
