@@ -7,4 +7,4 @@
 - GoogleScholar
 - EMby
 # 修改说明
-如果需要在此基础上个人定制，只需要修改Chauncey09.in文件和添加对应.list文件
+如果需要在此基础上个人定制，只需要修改Chauncey09.ini文件和添加对应.list文件
